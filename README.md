@@ -9,8 +9,8 @@ QUICK INTRO THE MODEL:
 6. Model is deployed on local machine using Flask framework.
 
 QUICK GUIDE ABOUT THE FILES:
-$ models : folder has the serialized CNN model as CNN_G.h5
-$ Static : folder where the uploaded images during testing are saved.
-$ templates : folder contain the basic html frontend file as home.html
-$ CNN_final.ipynb : main.py file of project.
-$ app.py : app.py where the model is buit on top of Flask frmawork.
+1. models : folder has the serialized CNN model as CNN_G.h5.
+2. Static : folder where the uploaded images during testing are saved.
+3. templates : folder contain the basic html frontend file as home.html
+4. CNN_final.ipynb : main.py file of project.
+5. app.py : app.py where the model is buit on top of Flask frmawork.
